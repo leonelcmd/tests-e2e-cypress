@@ -1,3 +1,4 @@
 {
-    "baseUrl": "https:///notes-serverless-app.com/signup"
+    "baseUrl": "https:///notes-serverless-app.com",
+    "defaultCommandTimeout": 10000
 }
